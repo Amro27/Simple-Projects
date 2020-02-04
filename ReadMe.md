@@ -1,1 +1,2 @@
-I will apply Principal Component Analysis (PCA) on Breast Cancer Data.
+# Simple-Projects
+ This is some basic Machine Learning Projects in supervised and unsupervised learning
